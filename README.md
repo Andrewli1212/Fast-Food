@@ -11,26 +11,34 @@ From the above plot, we were able to conclude that the number of restaurants is 
 Ratio of percentage change in population to the number of fast-food restaurants in every state: 
 We dived a little deeper and determined the percentage change in population to the number of fast-food restaurants for every state.
 
-            Ratio of %age change in population = (Total number of restaurants/population) *  100
+Ratio of percentage change in population = (Total number of restaurants/population) *  100
             
-             
-             From the above bar graph, it is evident that in states where population is lower, the ratio of restaurants to total population seems to be higher. As the population varies, the number of fast food restaurants vary accordingly i.e. states, where population is lower, the number of restaurants too are lower and vice-versa.
+![](Output/q2a.png)
 
-Comparing average household income to total population and the number of fast-food restaurants in each state: 
+From the above bar graph, it is evident that in states where the population is lower, the ratio of restaurants to the total population seems to be higher. As the population varies, the number of fast food restaurants varies accordingly i.e. states, where the population is lower, the number of restaurants too are lower and vice-versa.
 
+Comparing average household income to the total population and the number of fast-food restaurants in each state: 
 
-Above scatter plot shows that the median household income is slightly negatively correlated to the Total number of restaurants. i.e. With increase in household income, there is a decline in the number of fast-food restaurants for a given state.
+![](Output/q3c.png)
 
+The above scatter plot shows that the median household income is slightly negatively correlated to the Total number of restaurants. i.e. With the increase in household income, there is a decline in the number of fast-food restaurants for a given state.
 
-         Based on the above bar-graph, the median household income seems to be around $63,000. Florida seems to be a potential place of interest for opening a restaurant as the population is averagely high and the household income is below median. 
+![](Output/q3b.png)
+
+Based on the above bar graph, the median household income seems to be around $63,000. Florida seems to be a potential place of interest for opening a restaurant as the population is averagely high and the household income is below the median. 
             
-Best location in Florida to open restaurant: 
+Best location in Florida to open a restaurant: 
 
-                Below are maps plotted using Geoapify APIs showing the number of fast-food restaurants across the state of Florida and number of universities/colleges in and around Tallahassee. 
-      	     
-                          Pic a. Map showing fast-food restaurants across Florida.
-               
-               Pic b.   Map showing universities/colleges in and around Tallahassee
+Below are maps plotted using Geoapify APIs showing the number of fast-food restaurants across the state of Florida, number of universities/colleges in Tallahassee as well as the hotels in Naples. 
+
+![](Output/map_plot2_florida.png)
+Figure 1: Map showing fast-food restaurants across Florida.
+
+![](Output/Tallahassee.png)
+Figure 2: Map showing universities/colleges in Tallahassee.
+
+![](Output/Naples.png)
+Figure 3: Map showing hotels in Naples.
 
 Based on the above maps, we chose Tallahassee and Naples as potential places to open fast-food restaurant(s) as the number of fast-food restaurants in Tallahassee and Naples is lower compared to other places across the state (Pic a). Tallahassee being a college-town has a high student population because of many universities  (Pic b) and opening fast-food restaurants in Tallahassee would be the most prospective option.
 
