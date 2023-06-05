@@ -89,7 +89,7 @@ Thomas Gresco: Main contributor in cleaning up demographics csv file and putting
 
 Vineetha Bharadwaj: Assisted in cleaning up the restaurant names, put together the Summary Report and made edits to ReadMe file?
 
-Euribiades Mota:
+Euribiades Mota: Tried helping Vineetha with the Analysis and tried helping out with the code and also adding notes to it.
 
 **Appendix**
 
