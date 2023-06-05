@@ -76,6 +76,7 @@ This project contains following directories and files:
 
 
 **Breakdown**
+
 Andrew Li: Main coder and cleanup. Assisted in editing the summary report/readme.  
 
 Thomas Gresco: Main contributor in cleaning up demographics csv file and putting together the powerpoint.
