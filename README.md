@@ -76,9 +76,12 @@ This project contains following directories and files:
 
 
 **Breakdown**
-Andrew Li: Main coder and cleanup. Assist in editing the summary report/readme.  
-Thomas Gresco: Main contributor in cleaning up demographics csv file and put together the powerpoint.
-Vineetha Bharadwaj: 
+Andrew Li: Main coder and cleanup. Assisted in editing the summary report/readme.  
+
+Thomas Gresco: Main contributor in cleaning up demographics csv file and putting together the powerpoint.
+
+Vineetha Bharadwaj: Assisted in cleaning up the restaurant names, put together the Summary Report and made edits to ReadMe file?
+
 Euribiades Mota:
 
 **Appendix**
