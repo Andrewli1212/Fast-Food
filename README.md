@@ -75,6 +75,12 @@ This project contains following directories and files:
     - Florida_School.png
 
 
+**Breakdown**
+Andrew Li: Main coder and cleanup. Assist in editing the summary report/readme.  
+Thomas Gresco: Main contributor in cleaning up demographics csv file and put together the powerpoint.
+Vineetha Bharadwaj: 
+Euribiades Mota:
+
 **Appendix**
 
 https://www.kaggle.com/datasets/datafiniti/fast-food-restaurants
