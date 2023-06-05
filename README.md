@@ -77,6 +77,9 @@ This project contains following directories and files:
 **Appendix**
 
 https://www.kaggle.com/datasets/datafiniti/fast-food-restaurants
+
 https://www2.census.gov/programs-surveys/cps/tables/time-series/historical-income-households/h08.xls
+
 https://www2.census.gov/programs-surveys/popest/tables/2020-2022/state/totals/NST-EST2022-POP.xlsx
+
 https://corgis-edu.github.io/corgis/datasets/csv/state_demographics/state_demographics.csv
