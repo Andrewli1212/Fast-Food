@@ -1,9 +1,11 @@
 # Group3-project1
 
 **What is this project about?**
+
 We are a group of investors looking to open a new fast-food restaurant somewhere in the United States. Our goal was to gather and analyze data that would help us determine the best location to open a fast-food restaurant. We primarily looked at three different datasets: Population in each state, Number of restaurants in each state, and Household income for every state. Based on these three data sets, we plotted different bar graphs, and scatter plots as described below that helped us determine the best location.
 
 **Population vs Number of Fast-food Restaurants:** 
+
 We first looked at the total size of the population in every state and the total number of fast-food restaurants for each state by plotting separate bar graphs. For better visualization, we combined the population and restaurant data set for every state by plotting a Scatter chart as shown below: 
  
  ![](Output/q1c.png)
@@ -11,6 +13,7 @@ We first looked at the total size of the population in every state and the total
 From the above plot, we were able to conclude that the number of restaurants is positively correlated to the population of any given state. In other words, the number of restaurants increases as the population increases.
 
 **The ratio of percentage change in population to the number of fast-food restaurants in every state:** 
+
 We dived a little deeper and determined the percentage change in population to the number of fast-food restaurants for every state.
 
 Ratio of percentage change in population = (Total number of restaurants/population)*100
@@ -31,6 +34,7 @@ The above scatter plot shows that the median household income is slightly negati
 Based on the above bar graph, the median household income seems to be around $63,000. Florida seems to be a potential place of interest for opening a restaurant as the population is averagely high and the household income is below the median.  
             
 **Best location in Florida to open a new fast food restaurant:** 
+
 Below are maps plotted using Geoapify APIs showing the number of fast-food restaurants across the state of Florida, the number of universities/colleges in Tallahassee as well as the hotels in Naples.
 
 
@@ -46,9 +50,11 @@ Below are maps plotted using Geoapify APIs showing the number of fast-food resta
 Based on the above maps, we chose Tallahassee and Naples as potential places to open fast-food restaurant(s) as the number of fast-food restaurants in Tallahassee and Naples is lower compared to other places across the state (Figure 1). Tallahassee being a college town has a high student population because of the various universities/colleges (Figure 2). With many attractions in Naples, it is another location that can benefit entrepreneurs to open another fast food restaurant due to a large number of tourists (Figure 3). 
 
 **Implications:**
+
 It is evident that there is an abundance of fast-food restaurants in the United States, but there are still plenty of locations to add more. These findings can be used to investigate other specific states outside of Florida. For future research, we can do more research on specific fast-food restaurants’ yearly revenue and revenue changes. Other points of the new research could include demographics from specific states, such as ethnicity and race. These could factor into the success of a fast food restaurant.
                                                                                                                                                                                                                                               
 **Project folder structure:**
+
 This project contains following directories and files:
 
 1. "Group3-project1" is the main project folder
